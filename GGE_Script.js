@@ -4,8 +4,8 @@
 
 //Copy from: https://code.earthengine.google.com/8e5aff637aee53ecf84e5c0aefa90623
 
-//Inspired by: Barenblitt, A.; Fatoyinbo, T. (2020). Remote Sensing for Mangroves in Support of the UN Sustainable Development Goals. NASA Applied Remote Sensing Training Program (ARSET). https://appliedsciences.nasa.gov/join-mission/training?program_area=All&languages=All&source=All&page=1
-
+//Inspired by: Barenblitt, A.; Fatoyinbo, T. (2020). Remote Sensing for Mangroves in Support of the UN Sustainable Development Goals. NASA Applied Remote Sensing Training Program (ARSET).
+//https://appliedsciences.nasa.gov/get-involved/training/english/arset-remote-sensing-mangroves-support-un-sustainable-development
 
 var East_Luwu = ee.FeatureCollection("users/SINAUGIS/East_Luwu")
 Map.centerObject(coastal,10)
