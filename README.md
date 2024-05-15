@@ -1,6 +1,9 @@
 # Mangroves Monitoring using Google Earth Engine (GEE)
 The Google Earth Engine (GEE) source code and data used in Two Decades Mangroves Loss Monitoring Using Random Forest and Landsat Data in East Luwu, Indonesia (2000–2020) paper, published in Geomatics MDPI (2022) https://doi.org/10.3390/geomatics2030016
 <br>
+## Updated using Landsat Collection-2:
+https://code.earthengine.google.com/b4de94858edbf41de46073bdcbbd57ac
+<br>
 ### Access GEE Script via link:
 https://code.earthengine.google.com/d98738e94ada36dc83e4824a12e4278d
 <br>
