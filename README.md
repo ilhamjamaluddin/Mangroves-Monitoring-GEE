@@ -15,4 +15,7 @@ This folder consists of:
 2. Testing data for accuracy assessment (.shp)
 3. Landsat-7 and Landsat-8 from 2000 - 2020 (.tif)
 4. Classification result from 2000 -  2020 (.tif)
+<be>
+### Please cite this paper if you find this source code useful for your research
+https://doi.org/10.3390/geomatics2030016
 
